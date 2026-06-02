@@ -22,5 +22,6 @@ https://extraordinary-sundae-595aa8.netlify.app/
 3. Scan a QR code
 4. Attendance gets recorded automatically
 5. Export attendance as Excel file
-   
+   NOTE: YOU SHOULD GENERATE QR OAD FROM QR COAD GENERATION SOFTWARE IN WEB THEN ONLY YOU CAN ACCES THE QR SCANNER AND REGISTER YOUR ATTENDANCE.
+   QR COAD GENERATION IN THIS SAME WEBSITE WILL BE AVALIABLE SOON..
                                                      thank you everyone for visiting this repo
